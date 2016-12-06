@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="46fdbf42-aca1-441a-ad8a-f3021470cb22" name="AWS" url="http://dev-env.s4yaeqykfu.us-west-2.elasticbeanstalk.com">
+        <fileTransfer host="dev-env.s4yaeqykfu.us-west-2.elasticbeanstalk.com" port="22" privateKey="C:\SapphireDev\LemhiVentures\AWSDevelopmentPair.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
